@@ -1,1 +1,1 @@
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D9%84%D8%B7%D9%81%D8%A7%D9%8B+%D8%B5%D8%A8%D9%88%D8%B1+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF+%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA+%D8%B6%D8%B9%DB%8C%D9%81%D9%87
+vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#mci
