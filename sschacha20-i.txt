@@ -1,1 +1,1 @@
-ss://chacha20-ietf-poly1305%3Amps3FwmDjLrWaOVg@series-a2.varzesh360.co:443#%40MostfaVpn11
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%87%9D%40Gp_Config%F0%9F%8C%9B+%D9%85%D9%86%D8%A8%D8%B9+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
